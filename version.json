@@ -1,0 +1,11 @@
+{
+  "min_version": "1.0.0",
+  "min_build": 8,
+  "latest_version": "1.0.0",
+  "latest_build": 8,
+  "force_update": false,
+  "message_da": "En vigtig opdatering til MintStax er klar. Opdatér venligst appen for at fortsætte.",
+  "message_en": "An important update for MintStax is available. Please update the app to continue.",
+  "ios_store_url": "https://apps.apple.com/app/id6839392670",
+  "android_store_url": "https://play.google.com/store/apps/details?id=com.mintstax.tcgscanner"
+}
